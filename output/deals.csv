@@ -1,0 +1,11 @@
+id,address,city,state,zip,purchase_price,rent_monthly_used,noi,cap_rate,coc,notes
+L001,123 Maple St,Columbus,OH,43215,185000.0,1750.0,11740.0,0.0635,0.0182,used listing rent/taxes
+L002,44 Elm Ave,Indianapolis,IN,46201,210000.0,1895.0,13107.6,0.0624,0.0144,tax estimated
+L003,890 Pine Dr,Kansas City,MO,64108,265000.0,198.75,-3035.1,-0.0115,-0.2494,rent estimated
+L004,17 Oak Court,Cleveland,OH,44114,149000.0,1450.0,9876.0,0.0663,0.0282,used listing rent/taxes
+L005,901 River Rd,Louisville,KY,40203,320000.0,2650.0,18132.0,0.0567,-0.0061,used listing rent/taxes
+L006,70 Lake View,Cincinnati,OH,45202,235000.0,176.25,-2454.9,-0.0104,-0.2458,rent estimated; tax estimated
+L007,5 Garden Ln,Pittsburgh,PA,15222,278000.0,2250.0,14680.0,0.0528,-0.0199,used listing rent/taxes
+L008,221 Cedar Blvd,Nashville,TN,37208,355000.0,2950.0,20736.0,0.0584,0.0001,tax estimated
+L009,13 Willow Way,Dayton,OH,45402,172000.0,129.0,-2304.48,-0.0134,-0.2563,rent estimated
+L010,808 Summit St,Milwaukee,WI,53202,245000.0,2050.0,13904.0,0.0568,-0.0058,used listing rent/taxes
