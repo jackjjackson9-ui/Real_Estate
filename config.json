@@ -1,0 +1,13 @@
+{
+  "rent_to_price_ratio": 0.009,
+  "vacancy_rate": 0.06,
+  "management_rate": 0.08,
+  "maintenance_rate": 0.07,
+  "capex_rate": 0.05,
+  "tax_rate": 0.012,
+  "insurance_annual": 1200,
+  "down_payment_rate": 0.25,
+  "interest_rate": 0.0675,
+  "term_years": 30,
+  "closing_cost_rate": 0.03
+}
