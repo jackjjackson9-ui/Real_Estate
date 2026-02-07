@@ -1,0 +1,96 @@
+[
+  {
+    "id": "L001",
+    "address": "123 Maple St",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43215",
+    "purchase_price": 185000,
+    "rent_estimate_monthly": 1750,
+    "property_taxes_annual": 2600
+  },
+  {
+    "id": "L002",
+    "address": "44 Elm Ave",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46201",
+    "purchase_price": 210000,
+    "rent_estimate_monthly": 1895
+  },
+  {
+    "id": "L003",
+    "address": "890 Pine Dr",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64108",
+    "purchase_price": 265000,
+    "property_taxes_annual": 3600
+  },
+  {
+    "id": "L004",
+    "address": "17 Oak Court",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44114",
+    "purchase_price": 149000,
+    "rent_estimate_monthly": 1450,
+    "property_taxes_annual": 1800
+  },
+  {
+    "id": "L005",
+    "address": "901 River Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203",
+    "purchase_price": 320000,
+    "rent_estimate_monthly": 2650,
+    "property_taxes_annual": 4200
+  },
+  {
+    "id": "L006",
+    "address": "70 Lake View",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202",
+    "purchase_price": 235000
+  },
+  {
+    "id": "L007",
+    "address": "5 Garden Ln",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222",
+    "purchase_price": 278000,
+    "rent_estimate_monthly": 2250,
+    "property_taxes_annual": 4100
+  },
+  {
+    "id": "L008",
+    "address": "221 Cedar Blvd",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37208",
+    "purchase_price": 355000,
+    "rent_estimate_monthly": 2950
+  },
+  {
+    "id": "L009",
+    "address": "13 Willow Way",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45402",
+    "purchase_price": 172000,
+    "property_taxes_annual": 2250
+  },
+  {
+    "id": "L010",
+    "address": "808 Summit St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53202",
+    "purchase_price": 245000,
+    "rent_estimate_monthly": 2050,
+    "property_taxes_annual": 3100
+  }
+]
